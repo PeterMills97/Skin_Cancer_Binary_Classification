@@ -1,4 +1,4 @@
-# Skin_Cancer_Binary_Classification
+# Skin_Cancer_Binary_Classification_using_VGG16
 Here are a couple notebooks I used to experiment on a skin cancer classification dataset taken from Kaggle: https://www.kaggle.com/datasets/kylegraupe/skin-cancer-binary-classification-dataset
 
 The aim of this project was to teach myself how to more effectively use a Keras pretrained computer vison model, I settled on VGG16 for this purpose. I had previously done some similar tasks as part of Andrew Ng's deep learning specialisation on Coursera, but found that doing this independently threw up some interesting lessons. Here are my main take aways:
